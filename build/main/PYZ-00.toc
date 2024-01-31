@@ -1,0 +1,2561 @@
+('C:\\Users\\bastian '
+ 'madrid\\PycharmProjects\\pythonProject\\build\\main\\PYZ-00.pyz',
+ [('os',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\selectors.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\copy.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\stat.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\typing.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\bz2.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\shutil.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\bisect.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\socket.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\tty.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\cmd.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ast.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\pickle.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('Herramientas',
+   'C:\\Users\\bastian madrid\\PycharmProjects\\pythonProject\\Herramientas.py',
+   'PYMODULE'),
+  ('pyrebase',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyrebase\\__init__.py',
+   'PYMODULE'),
+  ('pyrebase.pyrebase',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyrebase\\pyrebase.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey.RSA',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\PublicKey\\RSA.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey._openssh',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\PublicKey\\_openssh.py',
+   'PYMODULE'),
+  ('Crypto.Util.strxor',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\strxor.py',
+   'PYMODULE'),
+  ('Crypto.Util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Util._cpu_features',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\_cpu_features.py',
+   'PYMODULE'),
+  ('Crypto.Util._raw_api',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\_raw_api.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\cgi.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\configparser.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\config.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('Crypto.Util._file_system',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\_file_system.py',
+   'PYMODULE'),
+  ('Crypto.Protocol.KDF',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Protocol\\KDF.py',
+   'PYMODULE'),
+  ('Crypto.Protocol',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Protocol\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._EKSBlowfish',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_EKSBlowfish.py',
+   'PYMODULE'),
+  ('Crypto.Hash.BLAKE2s',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\BLAKE2s.py',
+   'PYMODULE'),
+  ('Crypto.Hash.CMAC',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\CMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.HMAC',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\HMAC.py',
+   'PYMODULE'),
+  ('Crypto.Hash.MD5',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\MD5.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA256',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA256.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA1',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA1.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA512',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA512.py',
+   'PYMODULE'),
+  ('Crypto.Hash',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_512',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA3_512.py',
+   'PYMODULE'),
+  ('Crypto.Hash.keccak',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\keccak.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_384',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA3_384.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_256',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA3_256.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA3_224',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA3_224.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA384',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA384.py',
+   'PYMODULE'),
+  ('Crypto.Hash.SHA224',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Hash\\SHA224.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.AES',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\AES.py',
+   'PYMODULE'),
+  ('Crypto.Cipher',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.DES3',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\DES3.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.ARC2',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\ARC2.py',
+   'PYMODULE'),
+  ('Crypto.Cipher.DES',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\DES.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ocb',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_ocb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_gcm',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_gcm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_siv',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_siv.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_eax',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_eax.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ccm',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_ccm.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_openpgp',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_openpgp.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ctr',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_ctr.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ofb',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_ofb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cfb',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_cfb.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_cbc',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_cbc.py',
+   'PYMODULE'),
+  ('Crypto.Cipher._mode_ecb',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Cipher\\_mode_ecb.py',
+   'PYMODULE'),
+  ('Crypto.IO.PEM',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\IO\\PEM.py',
+   'PYMODULE'),
+  ('Crypto.Util.Padding',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\Padding.py',
+   'PYMODULE'),
+  ('Crypto.IO.PKCS8',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\IO\\PKCS8.py',
+   'PYMODULE'),
+  ('Crypto.IO._PBES',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\IO\\_PBES.py',
+   'PYMODULE'),
+  ('Crypto.IO',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\IO\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Math.Primality',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\Primality.py',
+   'PYMODULE'),
+  ('Crypto.Math',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Math.Numbers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\Numbers.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerNative',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\_IntegerNative.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerBase',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\_IntegerBase.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerCustom',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\_IntegerCustom.py',
+   'PYMODULE'),
+  ('Crypto.Random.random',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Random\\random.py',
+   'PYMODULE'),
+  ('Crypto.Math._IntegerGMP',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Math\\_IntegerGMP.py',
+   'PYMODULE'),
+  ('Crypto.Util.number',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\number.py',
+   'PYMODULE'),
+  ('Crypto.Util.asn1',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\asn1.py',
+   'PYMODULE'),
+  ('Crypto.Util.py3compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Util\\py3compat.py',
+   'PYMODULE'),
+  ('Crypto.Random',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Random\\__init__.py',
+   'PYMODULE'),
+  ('Crypto',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.PublicKey',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\PublicKey\\__init__.py',
+   'PYMODULE'),
+  ('python_jwt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\python_jwt\\__init__.py',
+   'PYMODULE'),
+  ('jws',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\jws\\__init__.py',
+   'PYMODULE'),
+  ('jws.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\jws\\exceptions.py',
+   'PYMODULE'),
+  ('jws.header',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\jws\\header.py',
+   'PYMODULE'),
+  ('jws.algos',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\jws\\algos.py',
+   'PYMODULE'),
+  ('Crypto.Signature.PKCS1_PSS',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Signature\\PKCS1_PSS.py',
+   'PYMODULE'),
+  ('Crypto.Signature.pss',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Signature\\pss.py',
+   'PYMODULE'),
+  ('Crypto.Signature',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Signature\\__init__.py',
+   'PYMODULE'),
+  ('Crypto.Signature.pkcs1_15',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Signature\\pkcs1_15.py',
+   'PYMODULE'),
+  ('Crypto.Signature.PKCS1_v1_5',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\Crypto\\Signature\\PKCS1_v1_5.py',
+   'PYMODULE'),
+  ('jws.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\jws\\utils.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.appengine',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\adapters\\appengine.py',
+   'PYMODULE'),
+  ('requests_toolbelt._compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\_compat.py',
+   'PYMODULE'),
+  ('urllib3.contrib.appengine',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\contrib\\appengine.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.weakref_finalize',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\packages\\backports\\weakref_finalize.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\exceptions.py',
+   'PYMODULE'),
+  ('requests_toolbelt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.utils.user_agent',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\utils\\user_agent.py',
+   'PYMODULE'),
+  ('requests_toolbelt.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\utils\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.streaming_iterator',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\streaming_iterator.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart.encoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\multipart\\encoder.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.md',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\md.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\multipart\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.multipart.decoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\multipart\\decoder.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth.guess',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\auth\\guess.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth.http_proxy_digest',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\auth\\http_proxy_digest.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth._digest_auth_compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\auth\\_digest_auth_compat.py',
+   'PYMODULE'),
+  ('requests_toolbelt.auth',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\auth\\__init__.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\adapters\\__init__.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.source',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\adapters\\source.py',
+   'PYMODULE'),
+  ('requests_toolbelt.adapters.ssl',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests_toolbelt\\adapters\\ssl.py',
+   'PYMODULE'),
+  ('gcloud.storage',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\__init__.py',
+   'PYMODULE'),
+  ('gcloud.storage.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\connection.py',
+   'PYMODULE'),
+  ('gcloud.connection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\connection.py',
+   'PYMODULE'),
+  ('gcloud.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\exceptions.py',
+   'PYMODULE'),
+  ('httplib2',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\__init__.py',
+   'PYMODULE'),
+  ('httplib2.certs',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\certs.py',
+   'PYMODULE'),
+  ('httplib2.iri2uri',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\iri2uri.py',
+   'PYMODULE'),
+  ('httplib2.error',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\error.py',
+   'PYMODULE'),
+  ('httplib2.auth',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\auth.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('httplib2.socks',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\httplib2\\socks.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('gcloud.storage.client',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\client.py',
+   'PYMODULE'),
+  ('gcloud.iterator',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\iterator.py',
+   'PYMODULE'),
+  ('gcloud.client',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\client.py',
+   'PYMODULE'),
+  ('gcloud.credentials',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\credentials.py',
+   'PYMODULE'),
+  ('oauth2client.client',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\client.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.gce',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\gce.py',
+   'PYMODULE'),
+  ('oauth2client.contrib._metadata',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\_metadata.py',
+   'PYMODULE'),
+  ('oauth2client.contrib',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.contrib._appengine_ndb',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\_appengine_ndb.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.xsrfutil',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\xsrfutil.py',
+   'PYMODULE'),
+  ('oauth2client.contrib.appengine',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\contrib\\appengine.py',
+   'PYMODULE'),
+  ('oauth2client.crypt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\crypt.py',
+   'PYMODULE'),
+  ('oauth2client._pycrypto_crypt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\_pycrypto_crypt.py',
+   'PYMODULE'),
+  ('oauth2client._openssl_crypt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\_openssl_crypt.py',
+   'PYMODULE'),
+  ('oauth2client._pure_python_crypt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\_pure_python_crypt.py',
+   'PYMODULE'),
+  ('rsa',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\__init__.py',
+   'PYMODULE'),
+  ('rsa.pkcs1',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\pkcs1.py',
+   'PYMODULE'),
+  ('rsa.core',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\core.py',
+   'PYMODULE'),
+  ('rsa.common',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\common.py',
+   'PYMODULE'),
+  ('rsa.key',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\key.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedtype',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\namedtype.py',
+   'PYMODULE'),
+  ('pyasn1.type.tagmap',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\tagmap.py',
+   'PYMODULE'),
+  ('pyasn1.type.tag',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\tag.py',
+   'PYMODULE'),
+  ('pyasn1.error',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\error.py',
+   'PYMODULE'),
+  ('pyasn1',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.debug',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\debug.py',
+   'PYMODULE'),
+  ('pyasn1.compat.octets',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\compat\\octets.py',
+   'PYMODULE'),
+  ('pyasn1.compat',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.compat.integer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\compat\\integer.py',
+   'PYMODULE'),
+  ('pyasn1.type.univ',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\univ.py',
+   'PYMODULE'),
+  ('pyasn1.type.namedval',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\namedval.py',
+   'PYMODULE'),
+  ('pyasn1.type.constraint',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\constraint.py',
+   'PYMODULE'),
+  ('pyasn1.type.error',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\error.py',
+   'PYMODULE'),
+  ('pyasn1.type.base',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\base.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.eoo',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\ber\\eoo.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.encoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\ber\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.type.useful',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\useful.py',
+   'PYMODULE'),
+  ('pyasn1.type.char',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\char.py',
+   'PYMODULE'),
+  ('pyasn1.codec.ber.decoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\ber\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.streaming',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\streaming.py',
+   'PYMODULE'),
+  ('pyasn1.codec',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.type.opentype',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\type\\opentype.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.encoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\der\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.encoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\cer\\encoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\cer\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.cer.decoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\cer\\decoder.py',
+   'PYMODULE'),
+  ('rsa.asn1',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\asn1.py',
+   'PYMODULE'),
+  ('rsa.randnum',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\randnum.py',
+   'PYMODULE'),
+  ('rsa.pem',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\pem.py',
+   'PYMODULE'),
+  ('rsa.prime',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\prime.py',
+   'PYMODULE'),
+  ('rsa.parallel',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\parallel.py',
+   'PYMODULE'),
+  ('rsa.transform',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\rsa\\transform.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc5208',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1_modules\\rfc5208.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2251',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1_modules\\rfc2251.py',
+   'PYMODULE'),
+  ('pyasn1_modules.rfc2459',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1_modules\\rfc2459.py',
+   'PYMODULE'),
+  ('pyasn1_modules.pem',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1_modules\\pem.py',
+   'PYMODULE'),
+  ('pyasn1_modules',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1_modules\\__init__.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der.decoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\der\\decoder.py',
+   'PYMODULE'),
+  ('pyasn1.codec.der',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyasn1\\codec\\der\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.transport',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\transport.py',
+   'PYMODULE'),
+  ('oauth2client.clientsecrets',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\clientsecrets.py',
+   'PYMODULE'),
+  ('oauth2client._pkce',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\_pkce.py',
+   'PYMODULE'),
+  ('oauth2client._helpers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\_helpers.py',
+   'PYMODULE'),
+  ('oauth2client',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\__init__.py',
+   'PYMODULE'),
+  ('gcloud._helpers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\_helpers.py',
+   'PYMODULE'),
+  ('gcloud.environment_vars',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\environment_vars.py',
+   'PYMODULE'),
+  ('google.protobuf.timestamp_pb2',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\timestamp_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.symbol_database',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\symbol_database.py',
+   'PYMODULE'),
+  ('google.protobuf.message_factory',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\message_factory.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.python_message',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\python_message.py',
+   'PYMODULE'),
+  ('google.protobuf.text_format',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\text_format.py',
+   'PYMODULE'),
+  ('google.protobuf.text_encoding',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\text_encoding.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.wire_format',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\wire_format.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.well_known_types',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\well_known_types.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.type_checkers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\type_checkers.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.message_listener',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\message_listener.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.extension_dict',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\extension_dict.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.enum_type_wrapper',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\enum_type_wrapper.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.encoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\encoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.decoder',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\decoder.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.containers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\containers.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext.cpp_message',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\pyext\\cpp_message.py',
+   'PYMODULE'),
+  ('google.protobuf.pyext',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\pyext\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.internal.api_implementation',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\api_implementation.py',
+   'PYMODULE'),
+  ('google.protobuf.internal',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\internal\\__init__.py',
+   'PYMODULE'),
+  ('google.protobuf.reflection',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\reflection.py',
+   'PYMODULE'),
+  ('google.protobuf.message',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\message.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pool',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\descriptor_pool.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_pb2',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\descriptor_pb2.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor_database',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\descriptor_database.py',
+   'PYMODULE'),
+  ('google.protobuf.descriptor',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\descriptor.py',
+   'PYMODULE'),
+  ('google.protobuf',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\google\\protobuf\\__init__.py',
+   'PYMODULE'),
+  ('google', '-', 'PYMODULE'),
+  ('gcloud.storage.bucket',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\bucket.py',
+   'PYMODULE'),
+  ('gcloud.storage.acl',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\acl.py',
+   'PYMODULE'),
+  ('gcloud.storage._helpers',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\_helpers.py',
+   'PYMODULE'),
+  ('gcloud.storage.blob',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\blob.py',
+   'PYMODULE'),
+  ('gcloud.streaming.transfer',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\transfer.py',
+   'PYMODULE'),
+  ('gcloud.streaming',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\__init__.py',
+   'PYMODULE'),
+  ('gcloud.streaming.util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\util.py',
+   'PYMODULE'),
+  ('gcloud.streaming.stream_slice',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\stream_slice.py',
+   'PYMODULE'),
+  ('gcloud.streaming.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\exceptions.py',
+   'PYMODULE'),
+  ('gcloud.streaming.buffered_stream',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\buffered_stream.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('gcloud.streaming.http_wrapper',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\streaming\\http_wrapper.py',
+   'PYMODULE'),
+  ('gcloud.storage.batch',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\storage\\batch.py',
+   'PYMODULE'),
+  ('email.mime.application',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\email\\mime\\application.py',
+   'PYMODULE'),
+  ('gcloud',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\gcloud\\__init__.py',
+   'PYMODULE'),
+  ('oauth2client.service_account',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\oauth2client\\service_account.py',
+   'PYMODULE'),
+  ('pyrebase.pyre_sseclient',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\pyrebase\\pyre_sseclient.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('qrcode',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\__init__.py',
+   'PYMODULE'),
+  ('qrcode.image',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\image\\__init__.py',
+   'PYMODULE'),
+  ('qrcode.main',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\main.py',
+   'PYMODULE'),
+  ('qrcode.image.pil',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\image\\pil.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\bastian madrid\\.conda\\envs\\OF7\\lib\\fractions.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('qrcode.image.base',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\image\\base.py',
+   'PYMODULE'),
+  ('qrcode.util',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\util.py',
+   'PYMODULE'),
+  ('qrcode.LUT',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\LUT.py',
+   'PYMODULE'),
+  ('qrcode.base',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\base.py',
+   'PYMODULE'),
+  ('qrcode.exceptions',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\exceptions.py',
+   'PYMODULE'),
+  ('qrcode.constants',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\qrcode\\constants.py',
+   'PYMODULE'),
+  ('Cotizaciones',
+   'C:\\Users\\bastian madrid\\PycharmProjects\\pythonProject\\Cotizaciones.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'C:\\Users\\bastian '
+   'madrid\\.conda\\envs\\OF7\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE')])
